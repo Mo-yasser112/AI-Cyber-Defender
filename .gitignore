@@ -1,0 +1,14 @@
+
+# Data only
+data/
+datasets/
+*.zip
+*.pcap
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Env
+venv/
+.env
